@@ -1,0 +1,14 @@
+{
+  "name": "safe-connect",
+  "version": "0.0.1",
+  "private": true,
+  "author": "SafeConnect",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ETH-NYC-Hackathon/safe-connect.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ETH-NYC-Hackathon/safe-connect/issues"
+  }
+}
